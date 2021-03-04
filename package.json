@@ -1,6 +1,6 @@
 {
   "name": "@win-t/waitcb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple utility to conver NodeJS callback style to Promise",
   "main": "index.js",
   "author": "Win <kurnia.d.win@gmail.com>",
@@ -8,5 +8,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/win-t/waitcb.git"
-  }
+  },
+  "keywords": [
+    "callback",
+    "promise"
+  ]
 }
